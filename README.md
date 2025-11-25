@@ -1,4 +1,4 @@
-# Geometry Dash 2.21 Hidden Features Mod (Android)
+# Geometry Dash 2.21
 
 This mod turns on some hidden 2.21 features inside the official **Geometry Dash 2.2** Android app.
 
